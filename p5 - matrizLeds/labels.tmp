@@ -1,0 +1,35 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.12</VERSION>
+ <DEVICE>ATmega8535</DEVICE>
+ <WORKING_DIR>C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\p7MatrizLeds</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\p7MatrizLeds\p7MatrizLeds.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8535def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\p7MatrizLeds\p7MatrizLeds.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\p7MatrizLeds\p7MatrizLeds.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\p7MatrizLeds\p7MatrizLeds.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <tres><FILE>C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\p7MatrizLeds\p7MatrizLeds.asm</FILE><LINE>17</LINE></tres>
+  <dos><FILE>C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\p7MatrizLeds\p7MatrizLeds.asm</FILE><LINE>20</LINE></dos>
+  <uno><FILE>C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\p7MatrizLeds\p7MatrizLeds.asm</FILE><LINE>23</LINE></uno>
+  <A><FILE>C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\p7MatrizLeds\p7MatrizLeds.asm</FILE><LINE>61</LINE></A>
+  <loop><FILE>C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\p7MatrizLeds\p7MatrizLeds.asm</FILE><LINE>30</LINE></loop>
+  <delay><FILE>C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\p7MatrizLeds\p7MatrizLeds.asm</FILE><LINE>46</LINE></delay>
+  <WGLOOP0><FILE>C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\p7MatrizLeds\p7MatrizLeds.asm</FILE><LINE>48</LINE></WGLOOP0>
+  <WGLOOP1><FILE>C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\p7MatrizLeds\p7MatrizLeds.asm</FILE><LINE>50</LINE></WGLOOP1>
+  <WGLOOP2><FILE>C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\p7MatrizLeds\p7MatrizLeds.asm</FILE><LINE>56</LINE></WGLOOP2>
+  <B><FILE>C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\p7MatrizLeds\p7MatrizLeds.asm</FILE><LINE>65</LINE></B>
+  <C><FILE>C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\p7MatrizLeds\p7MatrizLeds.asm</FILE><LINE>69</LINE></C>
+  <D><FILE>C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\p7MatrizLeds\p7MatrizLeds.asm</FILE><LINE>73</LINE></D>
+ </LABELS>
+</ASSEMBLER_INFO>
