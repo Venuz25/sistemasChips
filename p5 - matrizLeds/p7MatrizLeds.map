@@ -1,5 +1,5 @@
 
-AVRASM ver. 2.1.12  C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\p7MatrizLeds\p7MatrizLeds.asm Thu Oct 23 14:12:33 2025
+AVRASM ver. 2.1.12  C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\sistemasChips\p5 - matrizLeds\p7MatrizLeds.asm Sun Nov 02 19:42:52 2025
 
 
 EQU  SIGNATURE_000 0000001e
@@ -595,15 +595,19 @@ DEF  col          r17
 DEF  cont         r21
 DEF  cont2        r22
 DEF  ocho         r23
-CSEG tres         00000008
-CSEG dos          00000009
-CSEG uno          0000000a
-CSEG A            00000027
-CSEG loop         0000000f
-CSEG delay        0000001d
-CSEG WGLOOP0      0000001e
-CSEG WGLOOP1      0000001f
-CSEG WGLOOP2      00000024
-CSEG B            0000002b
-CSEG C            0000002f
-CSEG D            00000033
+DEF  repeticiones r24
+DEF  frame_actual r25
+CSEG main_loop    0000000a
+CSEG repetir_frame 0000000b
+CSEG mostrar_frame 0000000c
+CSEG mostrar_columna 0000000d
+CSEG A            00000036
+DEF  cero         r20
+CSEG scan_loop    00000018
+CSEG delay        0000002c
+CSEG WGLOOP0      0000002d
+CSEG WGLOOP1      0000002e
+CSEG WGLOOP2      00000033
+CSEG B            0000003a
+CSEG C            0000003e
+CSEG D            00000042
