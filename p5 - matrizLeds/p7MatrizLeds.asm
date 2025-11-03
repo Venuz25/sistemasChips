@@ -11,7 +11,6 @@
 	ldi r16, high(ramend)
 	out sph, r16
 	ldi ocho, 8
-	ldi repeticiones, 20
 	clr frame_actual
 
 	ser r16
@@ -19,7 +18,7 @@
 	out ddrc, r16
 
 main_loop:
-	ldi repeticiones, 20
+	ldi repeticiones, 0
 
 repetir_frame:
 	clr cont2
@@ -69,7 +68,7 @@ scan_loop:
 	clr frame_actual
 	rjmp main_loop
 
-delay:
+delay:ret
 	ldi r18, $09
 WGLOOP0:
 	ldi r19, $6E

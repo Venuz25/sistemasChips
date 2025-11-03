@@ -1,5 +1,5 @@
 
-AVRASM ver. 2.1.12  C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\sistemasChips\p5 - matrizLeds\p7MatrizLeds.asm Mon Nov 03 07:45:09 2025
+AVRASM ver. 2.1.12  C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\sistemasChips\p6_reboteBoton\p6_reboteBoton.asm Sun Nov 02 20:35:56 2025
 
 
 EQU  SIGNATURE_000 0000001e
@@ -591,23 +591,13 @@ EQU  INT2addr     00000012
 EQU  OC0addr      00000013
 EQU  SPMRaddr     00000014
 EQU  INT_VECTORS_SIZE 00000015
-DEF  col          r17
-DEF  cont         r21
-DEF  cont2        r22
-DEF  ocho         r23
-DEF  repeticiones r24
-DEF  frame_actual r25
-CSEG main_loop    00000009
-CSEG repetir_frame 0000000a
-CSEG mostrar_frame 0000000b
-CSEG mostrar_columna 0000000c
-CSEG A            00000036
-DEF  cero         r20
-CSEG scan_loop    00000017
-CSEG delay        0000002b
-CSEG WGLOOP0      0000002d
-CSEG WGLOOP1      0000002e
-CSEG WGLOOP2      00000033
-CSEG B            0000003a
-CSEG C            0000003e
-CSEG D            00000042
+DEF  cuenta       r17
+DEF  aux          r16
+CSEG loop         00000008
+CSEG mostrar      00000015
+CSEG wait_press   00000009
+CSEG delay        00000024
+CSEG wait_release 00000010
+CSEG tabla        0000002f
+CSEG d1           00000027
+CSEG d2           00000028
