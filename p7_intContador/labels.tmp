@@ -1,0 +1,46 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.12</VERSION>
+ <DEVICE>ATmega8535</DEVICE>
+ <WORKING_DIR>C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\sistemasChips\p7_intContador</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\sistemasChips\p7_intContador\p7 - intContador.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8535def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\sistemasChips\p7_intContador\p7_intContador.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\sistemasChips\p7_intContador\p7_intContador.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\sistemasChips\p7_intContador\p7_intContador.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\sistemasChips\p7_intContador\p7 - intContador.asm</FILE><LINE>18</LINE></RESET>
+  <ISR_INT0><FILE>C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\sistemasChips\p7_intContador\p7 - intContador.asm</FILE><LINE>148</LINE></ISR_INT0>
+  <ISR_INT1><FILE>C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\sistemasChips\p7_intContador\p7 - intContador.asm</FILE><LINE>162</LINE></ISR_INT1>
+  <TABLA7SEG><FILE>C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\sistemasChips\p7_intContador\p7 - intContador.asm</FILE><LINE>53</LINE></TABLA7SEG>
+  <MAIN><FILE>C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\sistemasChips\p7_intContador\p7 - intContador.asm</FILE><LINE>56</LINE></MAIN>
+  <MOSTRAR><FILE>C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\sistemasChips\p7_intContador\p7 - intContador.asm</FILE><LINE>99</LINE></MOSTRAR>
+  <AUTO><FILE>C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\sistemasChips\p7_intContador\p7 - intContador.asm</FILE><LINE>64</LINE></AUTO>
+  <AUTO_LOOP><FILE>C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\sistemasChips\p7_intContador\p7 - intContador.asm</FILE><LINE>68</LINE></AUTO_LOOP>
+  <PAUSA_CHECK><FILE>C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\sistemasChips\p7_intContador\p7 - intContador.asm</FILE><LINE>71</LINE></PAUSA_CHECK>
+  <CONTAR><FILE>C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\sistemasChips\p7_intContador\p7 - intContador.asm</FILE><LINE>77</LINE></CONTAR>
+  <RETARDO_1S><FILE>C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\sistemasChips\p7_intContador\p7 - intContador.asm</FILE><LINE>129</LINE></RETARDO_1S>
+  <CONT_AUTO><FILE>C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\sistemasChips\p7_intContador\p7 - intContador.asm</FILE><LINE>85</LINE></CONT_AUTO>
+  <TABLA><FILE>C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\sistemasChips\p7_intContador\p7 - intContador.asm</FILE><LINE>111</LINE></TABLA>
+  <RETARDO_CORTO><FILE>C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\sistemasChips\p7_intContador\p7 - intContador.asm</FILE><LINE>123</LINE></RETARDO_CORTO>
+  <RC1><FILE>C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\sistemasChips\p7_intContador\p7 - intContador.asm</FILE><LINE>125</LINE></RC1>
+  <RET1S_LOOP><FILE>C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\sistemasChips\p7_intContador\p7 - intContador.asm</FILE><LINE>131</LINE></RET1S_LOOP>
+  <RETARDO_100MS><FILE>C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\sistemasChips\p7_intContador\p7 - intContador.asm</FILE><LINE>137</LINE></RETARDO_100MS>
+  <RET100_LOOP1><FILE>C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\sistemasChips\p7_intContador\p7 - intContador.asm</FILE><LINE>139</LINE></RET100_LOOP1>
+  <RET100_LOOP2><FILE>C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\sistemasChips\p7_intContador\p7 - intContador.asm</FILE><LINE>141</LINE></RET100_LOOP2>
+  <FIN_INT0><FILE>C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\sistemasChips\p7_intContador\p7 - intContador.asm</FILE><LINE>159</LINE></FIN_INT0>
+  <INICIAR_AUTO><FILE>C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\sistemasChips\p7_intContador\p7 - intContador.asm</FILE><LINE>174</LINE></INICIAR_AUTO>
+  <PON_PAUSA><FILE>C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\sistemasChips\p7_intContador\p7 - intContador.asm</FILE><LINE>170</LINE></PON_PAUSA>
+  <FIN_INT1><FILE>C:\Users\Areli Guevara\OneDrive - Instituto Politecnico Nacional\Documents\Escuela\Sistemas en Chip\sistemasChips\p7_intContador\p7 - intContador.asm</FILE><LINE>183</LINE></FIN_INT1>
+ </LABELS>
+</ASSEMBLER_INFO>
