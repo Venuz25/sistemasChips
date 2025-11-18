@@ -1,0 +1,46 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega8535</DEVICE>
+ <WORKING_DIR>C:\Users\Sunem\Desktop\chipchip\P666MATRI</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Sunem\Desktop\chipchip\P666MATRI\P666MATRI.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8535def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Sunem\Desktop\chipchip\P666MATRI\P666MATRI.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\Sunem\Desktop\chipchip\P666MATRI\P666MATRI.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\Sunem\Desktop\chipchip\P666MATRI\P666MATRI.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>C:\Users\Sunem\Desktop\chipchip\P666MATRI\P666MATRI.asm</FILE><LINE>52</LINE></reset>
+  <main><FILE>C:\Users\Sunem\Desktop\chipchip\P666MATRI\P666MATRI.asm</FILE><LINE>61</LINE></main>
+  <texto1><FILE>C:\Users\Sunem\Desktop\chipchip\P666MATRI\P666MATRI.asm</FILE><LINE>104</LINE></texto1>
+  <texto2><FILE>C:\Users\Sunem\Desktop\chipchip\P666MATRI\P666MATRI.asm</FILE><LINE>109</LINE></texto2>
+  <corre><FILE>C:\Users\Sunem\Desktop\chipchip\P666MATRI\P666MATRI.asm</FILE><LINE>130</LINE></corre>
+  <barre><FILE>C:\Users\Sunem\Desktop\chipchip\P666MATRI\P666MATRI.asm</FILE><LINE>115</LINE></barre>
+  <stop><FILE>C:\Users\Sunem\Desktop\chipchip\P666MATRI\P666MATRI.asm</FILE><LINE>138</LINE></stop>
+  <config_io><FILE>C:\Users\Sunem\Desktop\chipchip\P666MATRI\P666MATRI.asm</FILE><LINE>81</LINE></config_io>
+  <texto0><FILE>C:\Users\Sunem\Desktop\chipchip\P666MATRI\P666MATRI.asm</FILE><LINE>101</LINE></texto0>
+  <uno><FILE>C:\Users\Sunem\Desktop\chipchip\P666MATRI\P666MATRI.asm</FILE><LINE>78</LINE></uno>
+  <S><FILE>C:\Users\Sunem\Desktop\chipchip\P666MATRI\P666MATRI.asm</FILE><LINE>148</LINE></S>
+  <U><FILE>C:\Users\Sunem\Desktop\chipchip\P666MATRI\P666MATRI.asm</FILE><LINE>149</LINE></U>
+  <N><FILE>C:\Users\Sunem\Desktop\chipchip\P666MATRI\P666MATRI.asm</FILE><LINE>150</LINE></N>
+  <E><FILE>C:\Users\Sunem\Desktop\chipchip\P666MATRI\P666MATRI.asm</FILE><LINE>151</LINE></E>
+  <M><FILE>C:\Users\Sunem\Desktop\chipchip\P666MATRI\P666MATRI.asm</FILE><LINE>152</LINE></M>
+  <A><FILE>C:\Users\Sunem\Desktop\chipchip\P666MATRI\P666MATRI.asm</FILE><LINE>153</LINE></A>
+  <R><FILE>C:\Users\Sunem\Desktop\chipchip\P666MATRI\P666MATRI.asm</FILE><LINE>154</LINE></R>
+  <L><FILE>C:\Users\Sunem\Desktop\chipchip\P666MATRI\P666MATRI.asm</FILE><LINE>156</LINE></L>
+  <I><FILE>C:\Users\Sunem\Desktop\chipchip\P666MATRI\P666MATRI.asm</FILE><LINE>155</LINE></I>
+  <Ye><FILE>C:\Users\Sunem\Desktop\chipchip\P666MATRI\P666MATRI.asm</FILE><LINE>157</LINE></Ye>
+  <Dp><FILE>C:\Users\Sunem\Desktop\chipchip\P666MATRI\P666MATRI.asm</FILE><LINE>158</LINE></Dp>
+  <dos><FILE>C:\Users\Sunem\Desktop\chipchip\P666MATRI\P666MATRI.asm</FILE><LINE>123</LINE></dos>
+  <ok><FILE>C:\Users\Sunem\Desktop\chipchip\P666MATRI\P666MATRI.asm</FILE><LINE>136</LINE></ok>
+ </LABELS>
+</ASSEMBLER_INFO>

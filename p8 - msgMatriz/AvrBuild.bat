@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "C:\Users\Sunem\Desktop\chipchip\P666MATRI\labels.tmp" -fI -W+ie -C V2E -o "C:\Users\Sunem\Desktop\chipchip\P666MATRI\P666MATRI.hex" -d "C:\Users\Sunem\Desktop\chipchip\P666MATRI\P666MATRI.obj" -e "C:\Users\Sunem\Desktop\chipchip\P666MATRI\P666MATRI.eep" -m "C:\Users\Sunem\Desktop\chipchip\P666MATRI\P666MATRI.map" "C:\Users\Sunem\Desktop\chipchip\P666MATRI\P666MATRI.asm"
